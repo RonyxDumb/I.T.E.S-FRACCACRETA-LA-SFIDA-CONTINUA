@@ -41,8 +41,7 @@ Il gameplay è stato **completamente rinnovato**, con:
 
 Progetto creato da:
 
-- **Francesco Pio Pipino** — Sviluppatore principale  
-Con la partecipazione e supporto di:
+- **Francesco Pio Pipino** — Sviluppatore principale
 
 - **Prof. Alessandro Nicola Dell'Aquila** — Supervisione e ispirazione educativa
 

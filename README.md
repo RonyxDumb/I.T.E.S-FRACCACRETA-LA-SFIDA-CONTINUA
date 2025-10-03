@@ -1,6 +1,6 @@
 # 🎓 I.T.E.S. Fraccacreta - La Sfida Continua (Beta)
 
-Benvenuti nel **successore ufficiale** del primo gioco realizzato per l’**I.T.E.S. Fraccacreta**!  
+Benvenuti nel **successore** del primo gioco realizzato per l’**I.T.E.S. Fraccacreta**!  
 Questa nuova esperienza, costruita da zero con dedizione, fantasia e passione, vi porterà a vivere un'avventura scolastica ispirata alla realtà, ma con uno stile del tutto unico.
 
 ---
@@ -44,7 +44,7 @@ Progetto creato da:
 - **Francesco Pio Pipino** — Sviluppatore principale  
 Con la partecipazione e supporto di:
 
-- **Prof. Nicola Alessandro Dell’Acquila** — Supervisione e ispirazione educativa
+- **Prof. Alessandro Nicola Dell'Aquila** — Supervisione e ispirazione educativa
 
 ---
 

@@ -1,12 +1,6 @@
 # 🎓 I.T.E.S. Fraccacreta - *La Sfida Continua* (Beta)
-
-<<<<<<< HEAD
 Benvenuti nel **seguito ufficiale** del primo videogioco dedicato all’**I.T.E.S. Fraccacreta**.  
 Questa nuova avventura, interamente riprogettata con passione e creatività, vi accompagnerà in un’esperienza scolastica ispirata alla realtà, ma filtrata attraverso uno stile unico e narrativo.
-=======
-Benvenuti nel **successore** del primo gioco realizzato per l’**I.T.E.S. Fraccacreta**!  
-Questa nuova esperienza, costruita da zero con dedizione, fantasia e passione, vi porterà a vivere un'avventura scolastica ispirata alla realtà, ma con uno stile del tutto unico.
->>>>>>> 3713fe627807c8dd1354f9f3969ca1041b1cb7a5
 
 ---
 

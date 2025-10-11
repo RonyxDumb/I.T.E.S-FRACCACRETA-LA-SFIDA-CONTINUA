@@ -1,4 +1,4 @@
-<div align='center'><img src="https://github.com/RonyxDumb/I.T.E.S-FRACCACRETA-LA-SFIDA-CONTINUA/blob/main/ProgrammaBeta_Icon_smal.png" width="800">
+<div align='center'><img src="https://github.com/RonyxDumb/I.T.E.S-FRACCACRETA-LA-SFIDA-CONTINUA/blob/main/img/ProgrammaBeta_Icon_Small.png" width="800">
 </div>
   
 <!-- # I.T.E.S. Fraccacreta - *La Sfida Continua* (Beta) -->

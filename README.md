@@ -1,4 +1,5 @@
 <div align='center'><img src="https://github.com/RonyxDumb/I.T.E.S-FRACCACRETA-LA-SFIDA-CONTINUA/blob/main/ProgrammaBeta_Icon_smal.png" width="800">
+  
 # I.T.E.S. Fraccacreta - *La Sfida Continua* (Beta)
 Benvenuti nel **seguito ufficiale** del primo videogioco dedicato all’**I.T.E.S. Fraccacreta**.  
 Questa nuova avventura, interamente riprogettata con passione e creatività, vi accompagnerà in un’esperienza scolastica ispirata alla realtà, ma filtrata attraverso uno stile unico e narrativo.

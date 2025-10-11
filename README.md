@@ -42,6 +42,15 @@ Il gameplay è stato **completamente rinnovato** con l’introduzione di:
 
 ---
 
+## Crediti Musicali
+
+Le canzoni presenti nel gioco sono tratte da:
+
+- *Twiddlefinger* — autore / compositore: **headdzo & kiwiquest**  
+- *Dwiddlefinger* — autore / compositore: **Clappers46, Matasaki_Dude & MBM**
+
+---
+
 ## Crediti
 
 Progetto ideato e sviluppato da:

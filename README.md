@@ -1,4 +1,5 @@
 <div align='center'><img src="https://github.com/RonyxDumb/I.T.E.S-FRACCACRETA-LA-SFIDA-CONTINUA/blob/main/ProgrammaBeta_Icon_smal.png" width="800">
+</div>
   
 <!-- # I.T.E.S. Fraccacreta - *La Sfida Continua* (Beta) -->
 Benvenuti nel **seguito <!-- ufficiale -->** del primo videogioco dedicato all’**I.T.E.S. Fraccacreta**.  
